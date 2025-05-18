@@ -1,6 +1,6 @@
 ## Hi I'm Hugo 👋
 - 🎓 First Year Computer Science BSc student at Royal Holloway, University of London.
-- 💡 Passionate about building innovative solutions through technology.
+- 🌟 Passionate about building innovative solutions through technology.
 - 🌱 Always learning - Driven by curiosity, collaboration, and real-world impact.
 - 📫 How to reach me: hugokomatsu2006@gmail.com
 <!--
